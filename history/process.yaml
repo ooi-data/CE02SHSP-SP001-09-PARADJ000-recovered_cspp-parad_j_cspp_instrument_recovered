@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHSP-SP001-09-PARADJ000-recovered_cspp-parad_j_cspp_instrument_recovered
 data_stream: CE02SHSP-SP001-09-PARADJ000-recovered_cspp-parad_j_cspp_instrument_recovered
 end_date: '2021-09-17T02:08:54.243Z'
-last_updated: '2021-12-22T02:33:40.186613Z'
+last_updated: '2021-12-22T02:38:57.607238'
 start_date: '2015-03-18T19:36:57.754Z'
-status: pending
+status: success
